@@ -26,7 +26,10 @@ export default function Book(){
                         )}
                 </tbody>
             </Table>
-            
+            <div>
+                <p>Book Sayfasi</p>
+            </div>
         </div>
+        
     )
 }
